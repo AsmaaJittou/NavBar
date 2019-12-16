@@ -1,2 +1,0 @@
-# NavBar
-Created with CodeSandbox
